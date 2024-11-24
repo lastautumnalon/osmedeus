@@ -1,6 +1,6 @@
 module github.com/j3ssie/osmedeus
 
-go 1.21.6
+go 1.23
 
 require (
 	github.com/Jeffail/gabs/v2 v2.7.0
